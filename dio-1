@@ -1,1 +1,7 @@
-
+{
+"name": "Name of Pool",
+"description": "Description of Pool",
+"ticker": "Ticker",
+"homepage": "Homepage",
+"extended": "<link to extended raw json>"
+}
