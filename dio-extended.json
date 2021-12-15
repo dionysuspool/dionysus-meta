@@ -1,0 +1,35 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Zurich, Switzerland",
+        "social": {
+            "twitter_handle": "dionysuspool",
+            "telegram_handle": "dionysuspool",
+            "facebook_handle": "dionysuspool",
+            "youtube_handle": "dionysuspool",
+            "twitch_handle": "dionysuspool",
+            "discord_handle": "dionysuspool"
+        },
+        "company": {
+            "name": "Dionysus Pool",
+            "addr": "Bleicherweg 30, 8002 ZH",
+            "city": "Zurich",
+            "country": "Switzerland"
+        },
+        "about": {
+            "us": "We provide World-First Managed Rewards Distribution Service. Stake with Dionysus & aim for extra rewards!",
+            "server": "Bare Metal Server - Redundant Servers Structure with high availability and loadbalancing. 
+            Servers:
+            2x A+ Server 1014S-WTRT
+            2x 1x AMD Rome 7452, 32C, 2.35GHz
+            8x 64GB DDR4-3200 RAM (512GB)
+            1x 480GB SATA SSD
+            1x 10GBase-T (RJ45) dual-port NIC
+    
+            Storage (Raid 6):
+            12x 7TB Intel SSD DC S4500 Series",
+            "company": "..."
+        }
+    }
+}
