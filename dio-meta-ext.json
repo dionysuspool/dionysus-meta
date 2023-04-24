@@ -1,0 +1,23 @@
+{
+  "serial": 100,
+  "pool": {
+    "id": "3d8103dd2ad0838d985a3fc00277c55da15279088f3b1dc11dd814ce",
+    "country": "CH",
+    "status": "active",
+    "contact": {
+      "primary": "email",
+      "email": "info@dionysus-pool.io",
+      "twitter": "dionysuspool"
+      "twitter_handle": "dionysuspool",
+      "discord_handle": "dionysuspool"
+      "twitter": "dionysuspool"
+    },
+    "media_assets": {
+      "icon_png_64x64": "https://github.com/dionysuspool/dionysus-meta/blob/fc1dea8b5d76895695debd5a16fd721d8a11d187/64x64-dio-blackred.png?raw=yes",
+      "logo_png": "https://raw.githubusercontent.com/dionysuspool/dionysus-meta/c10495935d478f402e3c438e97ccb69039b94ac7/dio-whitered.png?raw=yes",
+      "logo_svg": "https://raw.githubusercontent.com/dionysuspool/dionysus-meta/main/dio-whitered.svg",
+      "color_fg": "#E80633",
+      "color_bg": "#1D1D1D"
+    }
+  }
+}
