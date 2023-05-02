@@ -1,24 +1,23 @@
 {
-  "serial": 100,
-  "pool": {
-    "id": "3d8103dd2ad0838d985a3fc00277c55da15279088f3b1dc11dd814ce",
-    "country": "CH",
-    "status": "active",
-    "contact": {
-      "primary": "email",
-      "email": "info@dionysus-pool.io",
-      "twitter": "dionysuspool"
-      "twitter_handle": "dionysuspool",
-      "discord_handle": "dionysuspool"
-      "twitter": "dionysuspool"
-    },
-    "media_assets": {
-      "icon_png_64x64": "https://bit.ly/dionysus-64x64-logo",
-      "logo_png": "bit.ly/41Cl17B",
-      "logo_svg": "bit.ly/3L5M83J",
-      "color_fg": "#E80633",
-      "color_bg": "#1D1D1D"
+    "verification":"a31befc7d0b17d9234",
+    "info": {
+        "url_png_icon_64x64": "https://bit.ly/dionysus-64x64-logo",
+        "url_png_logo": "bit.ly/41Cl17B",
+        "logo_svg": "bit.ly/3L5M83J",
+        "location": "Zurich, Switzerland",
+        "social": {
+            "twitter_handle": "dionysuspool",
+            "discord_handle": "dionysuspool",
+        },
+        "company": {
+            "name": "Dionysus",
+            "city": "Zurich",
+            "country": "Switzerland"
+        },
+        "about": {
+            "me": "...",
+            "server": "Bare-Metal-Server Infrastructure, Protected Redundancy RAID 6",
+            "company": "Dionysus provides the Cardano Market with decentralized Applications"
+        }
     }
-  }
 }
-a31befc7d0b17d9234
