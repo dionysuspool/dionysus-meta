@@ -7,7 +7,7 @@
         "location": "Zurich, Switzerland",
         "social": {
             "twitter_handle": "dionysuspool",
-            "discord_handle": "dionysuspool",
+            "discord_handle": "dionysuspool"
         },
         "company": {
             "name": "Dionysus",
@@ -15,7 +15,6 @@
             "country": "Switzerland"
         },
         "about": {
-            "me": "...",
             "server": "Bare-Metal-Server Infrastructure, Protected Redundancy RAID 6",
             "company": "Dionysus provides the Cardano Market with decentralized Applications"
         }
